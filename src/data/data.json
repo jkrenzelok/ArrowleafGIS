@@ -1,0 +1,138 @@
+{
+  "Header": {
+    "title": "Arrowleaf GIS",
+    "paragraph": "Harnessing geospatial data to tell stories around the world."
+  },
+  "About": {
+    "paragraph": "Joe Krenzelok grew up on the banks of the Mississippi where he found his passion for the outdoors. He received his degree from the University of Minnesota in Geography, focusing his attention to Hydrology and remote sensing. Joe has been in the GIS and natural resource field for over 10 years. He continues to strive towards bettering the world and natural environment through GIS, Remote Sensing, and natural resource conservation.",
+    "Why": [
+      "Hardworking",
+      "Dependable",
+      "Innovative",
+      "Detail Oriented"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Crown of the Continent Cartographic Map - Glacier National Park",
+      "largeImage": "img/portfolio/GLAC_CCE_2020April16.bmp",
+      "smallImage": "img/portfolio/GLAC_CCE_2020April16small.bmp"
+    },
+    {
+      "title": "Oregon Coast Precipitation GIF - Blue Water GIS",
+      "largeImage": "img/portfolio/PRISM_Precip_ORCoast.gif",
+      "smallImage": "img/portfolio/PRISM_Precip_ORCoast2.jpg"
+    },
+    {
+      "title": "Field Data Collection - Forest Service",
+      "largeImage": "img/portfolio/IMG_1789.jpg",
+      "smallImage": "img/portfolio/drone.jpg"
+    },
+    {
+      "title": "Wildfire GIF - Blue Water GIS",
+      "largeImage": "img/portfolio/WildfireGISGIF.mp4",
+      "smallImage": "img/portfolio/WildfireGISGIF_Moment.jpg"
+    },
+    {
+      "title": "Remote sensing analysis of tree disturbance and tree type - Forest Service",
+      "largeImage": "img/portfolio/FS_Vmap.bmp",
+      "smallImage": "img/portfolio/FS_Vmapsmall.bmp"
+    },
+    {
+      "title": "Land use change analysis - Blue Water GIS",
+      "largeImage": "img/portfolio/LanduseColorRamp-page-001.jpg",
+      "smallImage": "img/portfolio/LanduseColorRamp-page-001small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-globe",
+      "name": "Geospatial Analysis",
+      "text": "I have experience analyzing vector and remote sensing data to meet you analysis needs."
+    },
+    {
+      "icon": "fa fa-location-arrow",
+      "name": "Cartography",
+      "text": "I utilize my expertise in ArcGIS paired with illustrative software to create stunning visuals."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Data Management",
+      "text": "I pride myself in data integrity and ensure proper storage, organization, and completeness."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Python Programming",
+      "text": "With advanced skills in Python I am able to complete any complicated tasks with ease."
+    },
+    {
+      "icon": "fa fa-tablet",
+      "name": "Field Data Collection",
+      "text": "I am skilled with the creation of field data applications and have put them to the test in sometimes ardous terrain."
+    },
+    {
+      "icon": "fa fa-th",
+      "name": "ArcGIS Pro / Online / Enterprise",
+      "text": "I can help to set up, train, or manage your ArcGIS systems."
+    }
+  ],
+ 
+  "Team": [
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Joe Krenzelok",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Kalispell, MT",
+    "phone": "(406) 207-7692",
+    "email": "joe.krenzelok@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
