@@ -1,4 +1,3 @@
-import myLogo from './ArrowleafLogo.ico'
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -17,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-          <img src="img/ArrowleafLogoWords2.png"  height="170%" />
+          <img src="img/ArrowleafLogoWords2.png"  height="170%" alt="Arrowleaf Logo"/>
           </a>{' '}
         </div>
 
