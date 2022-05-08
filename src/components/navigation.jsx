@@ -10,7 +10,7 @@ export const Navigation = (props) => {
             data-target='#bs-example-navbar-collapse-1'
           >
             {' '}
-            <span className='sr-onlyy'>Toggle navigation</span>{' '}
+            <span className='sr-only'>Toggle navigation</span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
