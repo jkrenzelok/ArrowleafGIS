@@ -1,3 +1,4 @@
+import myLogo from './ArrowleafLogo.ico'
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -10,13 +11,13 @@ export const Navigation = (props) => {
             data-target='#bs-example-navbar-collapse-1'
           >
             {' '}
-            <span className='sr-only'>Toggle navigation</span>{' '}
+            <span className='sr-onlyy'>Toggle navigation</span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Arrowleaf GIS, LLC
+          <img src="img/ArrowleafLogoWords2.png"  height="170%" />
           </a>{' '}
         </div>
 
